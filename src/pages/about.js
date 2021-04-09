@@ -51,7 +51,7 @@ export default ({ data }) => {
             <b>{occupation}</b> currently working in the field of neuromodulation to help identify biomarkers for Major Depressive Disorder(MDD).
           </p>
           <p className="i-5">
-            In my spare time, I mentor students in programming at TheCoderSchool. They certianly keep me on my toes. Also, I enjoy working on a few side projects, learning a new song on the sax, or exploring NYC with my wife.
+            In my spare time, I mentor students in programming at TheCoderSchool. They certainly keep me on my toes. Also, I enjoy working on a few side projects, learning a new song on the sax, or exploring NYC with my wife.
           </p>
           <p className="i-5">
             Check out my <Link to="/projects">projects</Link> to see what I've
